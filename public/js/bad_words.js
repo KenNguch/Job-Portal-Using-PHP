@@ -1,0 +1,1 @@
+var bad_words = ["rozee", "bitch", "fuck", "idiot", "bakwas"];
